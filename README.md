@@ -1,5 +1,5 @@
 # codes and data for DeepOPF-V.
-platform: pytorch
+Platform: Pytorch
 
 Reference:
 
