@@ -1,2 +1,2 @@
 # hwjcode
-# This file includes codes for my project.
+# codes and data for DeepOPF-V.
