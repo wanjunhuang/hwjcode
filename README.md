@@ -1,4 +1,4 @@
-# codes and data for DeepOPF-V.
+# Codes and data for DeepOPF-V.
 Platform: Pytorch
 
 Real-time load data for IEEE 300-bus system can be found in [2].
