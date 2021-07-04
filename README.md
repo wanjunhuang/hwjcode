@@ -1,4 +1,6 @@
-# hwjcode
 # codes and data for DeepOPF-V.
-# platform: pytorch
-# reference: Huang, W., Pan, X., Chen, M., & Low, S. H. (2021). DeepOPF-V: Solving AC-OPF Problems Efficiently. arXiv preprint arXiv:2103.11793.
+platform: pytorch
+
+Reference:
+
+[1] W. Huang, X. Pan, M. Chen, and S. H. Low, "DeepOPF-V: Solving AC-OPF Problems Efficiently," arXiv preprint arXiv:2103.11793, 2021.
